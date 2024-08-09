@@ -1,2 +1,3 @@
 # mca1st-demo
-this is my 2nd git repository
+This is my 2nd git repository
+Author-Sunita
